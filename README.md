@@ -1,1 +1,4 @@
-# react-render-static-sites
+```
+yarn create react-app . --template typescript
+yarn start
+```
